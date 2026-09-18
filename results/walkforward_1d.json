@@ -1,0 +1,41 @@
+[
+  {
+    "folds": 14,
+    "folds_beating_baseline": 2.0,
+    "beat_rate_pct": 14.3,
+    "mean_fold_return_pct": -20.67,
+    "mean_baseline_return_pct": 43.51,
+    "compounded_return_pct": -97.51,
+    "baseline_compounded_return_pct": 1800.98,
+    "total_trades": 863,
+    "worst_fold_return_pct": -53.91,
+    "worst_drawdown_pct": -52.88,
+    "strategy": "ema_crossover"
+  },
+  {
+    "folds": 14,
+    "folds_beating_baseline": 3.0,
+    "beat_rate_pct": 21.4,
+    "mean_fold_return_pct": -10.66,
+    "mean_baseline_return_pct": 43.51,
+    "compounded_return_pct": -80.78,
+    "baseline_compounded_return_pct": 1800.98,
+    "total_trades": 131,
+    "worst_fold_return_pct": -28.37,
+    "worst_drawdown_pct": -28.37,
+    "strategy": "rsi_reversion"
+  },
+  {
+    "folds": 6,
+    "folds_beating_baseline": 2.0,
+    "beat_rate_pct": 33.3,
+    "mean_fold_return_pct": -3.63,
+    "mean_baseline_return_pct": 33.76,
+    "compounded_return_pct": -19.95,
+    "baseline_compounded_return_pct": 234.97,
+    "total_trades": 10,
+    "worst_fold_return_pct": -6.46,
+    "worst_drawdown_pct": -6.46,
+    "strategy": "trend_filtered_rsi"
+  }
+]
